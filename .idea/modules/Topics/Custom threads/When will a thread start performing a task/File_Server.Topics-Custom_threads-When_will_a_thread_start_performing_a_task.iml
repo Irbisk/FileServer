@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Custom_threads-When_will_a_thread_start_performing_a_task" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Custom threads/When will a thread start performing a task" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="File Server" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Custom threads/When will a thread start performing a task">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom threads/When will a thread start performing a task/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom threads/When will a thread start performing a task/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom threads/When will a thread start performing a task/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

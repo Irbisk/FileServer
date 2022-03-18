@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Immediately after creating the object <b>task</b>
+- text: Immediately after creating the object <b>worker</b>
+- text: Immediately after starting <b>worker</b> using the <b>start()</b> method
+- text: Some time later after starting <b>worker</b> using the <b>start()</b> method
+- text: Only after the <b>main</b> thread has finished
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4874#comment
+status: Solved
+record: -1
+custom_name: When will a thread start performing a task?

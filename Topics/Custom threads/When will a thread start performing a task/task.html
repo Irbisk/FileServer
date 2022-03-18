@@ -1,0 +1,11 @@
+<h2>When will a thread start performing a task?</h2>
+<html>
+ <head></head>
+ <body>
+  <p>You have a class named <code class="language-xml">PrintMessageTask</code> that implements the <code class="language-xml">Runnable</code> interface. This class is declared to print a message to the standard output in a new thread.</p> 
+  <p>In the <code class="language-xml">main</code> method of a program, there is one object of this class and one thread relied on this object.</p> 
+  <pre><code class="language-xml">Runnable task = new PrintMessageTask("Hi, I'm good.");
+Thread worker = new Thread(task);</code></pre> 
+  <p>When will the message be printed?</p>
+ </body>
+</html>

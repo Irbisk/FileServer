@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="File_Server.File_Server-task-build-classes-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-reports-tests.main" target="11" />
+      <module name="File_Server.File_Server-task-build-test-results.main" target="11" />
+      <module name="File_Server.File_Server-task-build-tmp.main" target="11" />
+      <module name="File_Server.File_Server-task.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-And_always_these_rules.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-Capture_variables.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-Find_a_correct_syntax.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-Single_method.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="File_Server.Topics-Anonymous_classes-What_about_context.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Custom_serialization_behavior.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Fix_the_bank_account.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Included_fields.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Initialize_transient_fields.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Password_processing.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Serializing_integers.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-The_Range_class.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Theory.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Multiple_threads.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Statements.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-The_difference_between_start_and_run.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-The_order_of_lines.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-When_will_a_thread_start_performing_a_task.main" target="11" />
+      <module name="File_Server.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-A_string_operator.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-Built-in_classes.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-Statements.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-Ternary_predicate.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-The_requirement.main" target="11" />
+      <module name="File_Server.Topics-Functional_interfaces-Theory.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Checked_exceptions.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Subclasses_of_RuntimeException.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="File_Server.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Apply_function_to_all_elements.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Creating_a_closure.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Expression_closure.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Expressions.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Max_of_two_integers.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Next_even_number.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Parts_of code.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.main" target="11" />
+      <module name="File_Server.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="File_Server.Topics-Method_references-A_method_reference.main" target="11" />
+      <module name="File_Server.Topics-Method_references-All_correct_method_references.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Ascending_and_descending_sorting.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Getting_fields_of_classes.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Kinds_of_method_references.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Replace_the_lambda_expression_with_a_method_reference.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Syntax_of_method_references.main" target="11" />
+      <module name="File_Server.Topics-Method_references-Theory.main" target="11" />
+      <module name="File_Server.Topics-Serialization_basics-Serializable_user.main" target="11" />
+      <module name="File_Server.Topics-Serialization_basics-Theory.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Join.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Sleep.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Summing_with_threads.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-The_order_of_lines.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Theory.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-VeganPizza.main" target="11" />
+      <module name="File_Server.Topics-Thread_management-Waiting_for_a_thread.main" target="11" />
+      <module name="File_Server.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/File Server/task/build/
+/File Server/task/out/
+/File Server/task/out/production/classes/
+/Topics/Custom threads/Multiple threads/out/
+/Topics/Custom threads/Multiple threads/out/production/classes/
+/Topics/Lambda expressions/Creating a closure/out/
+/Topics/Lambda expressions/Creating a closure/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Summing with threads/out/
+/Topics/Thread management/Summing with threads/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/

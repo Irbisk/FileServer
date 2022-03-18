@@ -1,0 +1,32 @@
+<h2>A string operator</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Suppose, you are writing a new interface for processing strings via lambda expressions. You have several options to write it. Select all of them that can be marked with the <code class="language-java">@FunctionalInterface</code> annotation.</p> 
+  <pre><code class="language-java">// a
+interface StringOperator {
+    String apply(String value);
+    boolean checkNotNull(String value);
+}
+
+// b
+interface StringOperator {
+    String apply(String value);
+}
+
+// c
+interface StringOperator extends Function&lt;String, String&gt; {
+
+}
+
+// d
+interface StringOperator {
+    String apply(String value);
+    
+    default boolean checkNotNull(String value) { 
+        return !Objects.isNull(value);
+    }
+}</code></pre> 
+  <p>To solve this problem, it is recommended to try it in code or think well.</p>
+ </body>
+</html>
